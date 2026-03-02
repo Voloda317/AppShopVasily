@@ -33,17 +33,22 @@ async def search_wheel(
     width: Optional[int] = Query(None),
     et: Optional[int] = Query(None),
     dia: Optional[float] = Query(None),
-    pcd: Optional[str] = Query(None)
+    pcd: Optional[str] = Query(None),
 ):
-    filters = {}
-    if name: filters['name'] = name
-    if brand: filters['brand'] = brand
-    if model: filters['model'] = model
-    if diameter: filters['diameter'] = diameter
-    if width: filters['width'] = width
-    if et: filters['et'] = et
-    if dia: filters['dia'] = dia
-    if pcd: filters['pcd'] = pcd
+    filters = {
+        key: value
+        for key, value in {
+            "name": name,
+            "brand": brand,
+            "model": model,
+            "diameter": diameter,
+            "width": width,
+            "et": et,
+            "dia": dia,
+            "pcd": pcd,
+        }.items()
+        if value is not None
+    }
 
     return service.search_for_wheel(filters)
 

@@ -210,3 +210,60 @@
 2026-03-01 20:08:36,318 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
 2026-03-01 20:08:36,495 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
 2026-03-01 23:43:26,298 - src.main - main.py:24 - lifespan - INFO - Сервер завершил работу
+2026-03-02 08:07:30,773 - src.repositories.tire_rep - tire_rep.py:40 - create_table - INFO - Таблица tires успешно создана
+2026-03-02 08:07:30,774 - src.repositories.whels_rep - whels_rep.py:42 - create_table - INFO - Таблица wheels успешно создана
+2026-03-02 08:07:30,774 - src.main - main.py:22 - lifespan - INFO - Сервер начал работу
+2026-03-02 08:07:32,991 - src.main - main.py:24 - lifespan - INFO - Сервер завершил работу
+2026-03-02 08:07:35,738 - src.repositories.tire_rep - tire_rep.py:40 - create_table - INFO - Таблица tires успешно создана
+2026-03-02 08:07:35,738 - src.repositories.whels_rep - whels_rep.py:42 - create_table - INFO - Таблица wheels успешно создана
+2026-03-02 08:07:35,738 - src.main - main.py:22 - lifespan - INFO - Сервер начал работу
+2026-03-02 08:13:11,012 - src.main - main.py:24 - lifespan - INFO - Сервер завершил работу
+2026-03-02 08:13:12,426 - src.repositories.tire_rep - tire_rep.py:40 - create_table - INFO - Таблица tires успешно создана
+2026-03-02 08:13:12,427 - src.repositories.whels_rep - whels_rep.py:42 - create_table - INFO - Таблица wheels успешно создана
+2026-03-02 08:13:12,427 - src.main - main.py:22 - lifespan - INFO - Сервер начал работу
+2026-03-02 08:14:04,143 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
+2026-03-02 08:14:15,052 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
+2026-03-02 08:17:16,035 - src.main - main.py:24 - lifespan - INFO - Сервер завершил работу
+2026-03-02 08:17:23,102 - src.repositories.tire_rep - tire_rep.py:40 - create_table - INFO - Таблица tires успешно создана
+2026-03-02 08:17:23,102 - src.repositories.whels_rep - whels_rep.py:42 - create_table - INFO - Таблица wheels успешно создана
+2026-03-02 08:17:23,102 - src.main - main.py:22 - lifespan - INFO - Сервер начал работу
+2026-03-02 08:17:28,714 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
+2026-03-02 08:17:35,349 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
+2026-03-02 08:17:36,836 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
+2026-03-02 08:20:01,943 - src.main - main.py:24 - lifespan - INFO - Сервер завершил работу
+2026-03-02 08:20:02,531 - src.repositories.tire_rep - tire_rep.py:40 - create_table - INFO - Таблица tires успешно создана
+2026-03-02 08:20:02,531 - src.repositories.whels_rep - whels_rep.py:42 - create_table - INFO - Таблица wheels успешно создана
+2026-03-02 08:20:02,532 - src.main - main.py:22 - lifespan - INFO - Сервер начал работу
+2026-03-02 08:21:12,169 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
+2026-03-02 08:22:06,142 - src.main - main.py:24 - lifespan - INFO - Сервер завершил работу
+2026-03-02 08:22:06,688 - src.repositories.tire_rep - tire_rep.py:40 - create_table - INFO - Таблица tires успешно создана
+2026-03-02 08:22:06,689 - src.repositories.whels_rep - whels_rep.py:42 - create_table - INFO - Таблица wheels успешно создана
+2026-03-02 08:22:06,689 - src.main - main.py:22 - lifespan - INFO - Сервер начал работу
+2026-03-02 08:23:11,658 - src.main - main.py:24 - lifespan - INFO - Сервер завершил работу
+2026-03-02 08:23:13,343 - src.repositories.tire_rep - tire_rep.py:40 - create_table - INFO - Таблица tires успешно создана
+2026-03-02 08:23:13,343 - src.repositories.whels_rep - whels_rep.py:42 - create_table - INFO - Таблица wheels успешно создана
+2026-03-02 08:23:13,343 - src.main - main.py:22 - lifespan - INFO - Сервер начал работу
+2026-03-02 08:24:47,226 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
+2026-03-02 08:27:51,848 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
+2026-03-02 08:29:54,483 - src.main - main.py:24 - lifespan - INFO - Сервер завершил работу
+2026-03-02 08:29:56,722 - src.repositories.tire_rep - tire_rep.py:40 - create_table - INFO - Таблица tires успешно создана
+2026-03-02 08:29:56,723 - src.repositories.whels_rep - whels_rep.py:42 - create_table - INFO - Таблица wheels успешно создана
+2026-03-02 08:29:56,723 - src.main - main.py:22 - lifespan - INFO - Сервер начал работу
+2026-03-02 08:36:54,827 - src.main - main.py:24 - lifespan - INFO - Сервер завершил работу
+2026-03-02 08:37:37,109 - src.repositories.tire_rep - tire_rep.py:40 - create_table - INFO - Таблица tires успешно создана
+2026-03-02 08:37:37,110 - src.repositories.whels_rep - whels_rep.py:42 - create_table - INFO - Таблица wheels успешно создана
+2026-03-02 08:37:37,110 - src.main - main.py:22 - lifespan - INFO - Сервер начал работу
+2026-03-02 08:38:09,130 - src.main - main.py:24 - lifespan - INFO - Сервер завершил работу
+2026-03-02 08:38:09,618 - src.repositories.tire_rep - tire_rep.py:40 - create_table - INFO - Таблица tires успешно создана
+2026-03-02 08:38:09,619 - src.repositories.whels_rep - whels_rep.py:42 - create_table - INFO - Таблица wheels успешно создана
+2026-03-02 08:38:09,619 - src.main - main.py:22 - lifespan - INFO - Сервер начал работу
+2026-03-02 08:39:51,738 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
+2026-03-02 08:40:32,262 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
+2026-03-02 08:40:32,778 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
+2026-03-02 08:40:35,115 - src.services.wheel_service - wheel_service.py:47 - search_for_wheel - INFO - Найдено 1 дисков по фильтру
+2026-03-02 08:40:36,541 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
+2026-03-02 08:40:37,378 - src.services.wheel_service - wheel_service.py:47 - search_for_wheel - INFO - Найдено 1 дисков по фильтру
+2026-03-02 08:40:42,466 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
+2026-03-02 08:40:46,351 - src.services.tire_services - tire_services.py:52 - search_for_tire - INFO - ВСе хорошо
+2026-03-02 08:40:48,287 - src.services.wheel_service - wheel_service.py:47 - search_for_wheel - INFO - Найдено 1 дисков по фильтру
+2026-03-02 08:52:27,234 - src.main - main.py:24 - lifespan - INFO - Сервер завершил работу
